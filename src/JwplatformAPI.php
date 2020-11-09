@@ -10,7 +10,7 @@ class JwplatformAPI {
         private $_version = '1.7.0';
 
         /** @var array API urls */
-        private const urls = [
+        const urls = [
             'v1' => 'https://api.jwplatform.com/v1',
             'v2' => 'https://api.jwplayer.com/v2',
             'upload' => 'https://cdn.jwplayer.com'
