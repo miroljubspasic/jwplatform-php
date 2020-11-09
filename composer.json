@@ -1,7 +1,7 @@
 {
-    "name": "jwplayer/jwplatform",
+    "name": "diwanee/jwplatform",
     "type": "library",
-    "description": "Official JW Player client",
+    "description": "Official JW Player client / forked php70",
     "version": "v1.7.0",
     "keywords": [
       "jwplayer",
